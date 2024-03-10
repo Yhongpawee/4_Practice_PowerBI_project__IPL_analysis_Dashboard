@@ -4,11 +4,11 @@ The goal is to better understand data cleaning, data processing, data modeling, 
 
 # Requirement🍁❄️🍂😍
 Develop a mockup for an IPL dashboard designed to show insights into the Indian Premier League cricket tournament from 2008 to 2022. 
-1. Tournament Performance
+**1. Tournament Performance**
  - Find the Title Winner, Orange Cap Winner (highest run scorer), Purple Cap Winner (highest wicket taker), Tournament 6's and 4's for each season.
-2. Player Stats
+**2. Player Stats**
  - Develop IPL Batting and Bowling stats with filters for selecting bowlers and batsmen to see their detailed statistics.
-3. Team Performance
+**3. Team Performance**
  - Winning percentage based on the toss decision
  - Matches won by venue
  - Total wins by team in a season
