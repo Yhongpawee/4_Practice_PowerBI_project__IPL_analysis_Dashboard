@@ -15,7 +15,8 @@ Develop a mockup for an IPL dashboard designed to show insights into the Indian 
  - Matches won based on the result type (e.g., normal win, super over win)
 
 # Snapshot⬇️📌📄📸
-![image](https://github.com/Yhongpawee/Practice_PowerBI_project__IPL_analysis_Dashboard/assets/158539900/5cdac4d3-62d6-4b0d-9c3e-726277cb9d3b)
+![image](https://github.com/Yhongpawee/Practice_PowerBI_project__IPL_analysis_Dashboard/assets/158539900/fa8488fc-4325-48a4-98cc-548a641aec8f)
+
 
 
 
